@@ -1,12 +1,8 @@
-
+import MainView from "./mainView"
 
 function App() {
 
-  return (
-    <div className="bg-green-500">
-      Helloooooo
-    </div>
-  )
+  return <MainView />
 }
 
 export default App
